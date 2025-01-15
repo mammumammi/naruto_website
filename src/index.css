@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.naruto{
+  background-image: url(./assets/naruto.jpg);
+}

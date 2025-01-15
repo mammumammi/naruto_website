@@ -6,7 +6,7 @@ function App() {
 
   return (
     <main className='bg-black'>
-    <Navbar />
+    <Navbar  className='bg-transparent' />
     <Hero />
     </main>
   )
