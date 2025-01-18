@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => {
   return (
     
-        <div className='flex items-center justify-center'>
+        <div className='nav flex items-center justify-center'>
 
         <img 
          width={200}
